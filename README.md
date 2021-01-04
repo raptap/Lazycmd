@@ -6,18 +6,17 @@ automates hacking such as
 
 - wq scans
 
--ping
+- ping
 
--ddos
+- ddos
 
--brute force
-
+- brute force
 and much more
 
 
 
 
-#HOW TO DOWNLOAD
+# HOW TO DOWNLOAD
 
 git clone https://github.com/raptap/Lazycmd.git
 
