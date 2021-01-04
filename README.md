@@ -3,10 +3,15 @@
 --Lazycmd 
 automates hacking such as
 - sql injections
+
 - wq scans
+
 -ping
+
 -ddos
+
 -brute force
+
 and much more
 
 
