@@ -22,4 +22,4 @@ git clone https://github.com/raptap/Lazycmd.git
 
 cd Lazycmd
 
-python3 Lazycmd
+python3 Lazycmd.py
