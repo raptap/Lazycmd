@@ -332,6 +332,7 @@ def Main():
 	cmd = input("> ")
 	if cmd == "?":
 		print("? = Tool Menu ")
+		print("update = update Lazycmd")
 		print("ping = Ping tool")
 		print("list = make a list for bruteforce")
 		print("dos = DDOS tool")
@@ -407,6 +408,12 @@ def Main():
 			print("")
 			lname = input("name of file : ")
 			os.system("mousepad " + lname + ".txt")
+	elif cmd == "update":
+			os.system("clear")
+			os.system("figlet UPDATING")
+			print("")
+			os.system("git clone https://github.com/raptap/Lazycmd.git")
+			os.system("exit")
 	os.system("clear")
 	Main()
 
