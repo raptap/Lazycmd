@@ -35,7 +35,3 @@ updates more often
 - type "./Lazycmd.sh"
 
 Hope Yall Enjoy And by Next Update We Will annouce my website.
-
-
-Then It should Open
-
