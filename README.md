@@ -28,6 +28,7 @@ updates more often
 # Getting Started
 
 - Open A terminal in the folder
+- git clone https://github.com/raptap/Lazycmd.git
 - type "chmod +x install.sh"
 - type "./install.sh"
 - Wait For it all to install
