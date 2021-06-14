@@ -1,0 +1,3 @@
+clear
+sudo su
+hashcat -a 3 -m 0 $1 ?a?a?a?a?a?a --force
