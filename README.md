@@ -35,4 +35,4 @@ updates more often
 - type "chmod +x Lazycmd.sh"
 - type "./Lazycmd.sh"
 
-Hope Yall Enjoy And by Next Update We Will annouce my website.
+Hope Yall Enjoy And Report Any Bugs.
